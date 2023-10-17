@@ -1,0 +1,8 @@
+[INFO ] 2023-10-16 14:13:51.827 [main] Base - Execution is done inQA by testerNithin. Browser tested is chrome
+[INFO ] 2023-10-16 14:13:52.005 [main] Base - Reporting initiated
+[INFO ] 2023-10-16 14:13:55.728 [main] Base - Chrome Driver is successfully loaded
+[INFO ] 2023-10-16 14:14:19.887 [main] Base - Navigated Successfully to the base Urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[INFO ] 2023-10-16 14:14:20.581 [main] Base - Logged into Orange ORM Login page
+[INFO ] 2023-10-16 14:14:49.840 [main] Base - driver is closed for the current test instance
+[INFO ] 2023-10-16 14:14:49.985 [main] Base - driver is quit
+[INFO ] 2023-10-16 14:14:50.253 [main] Base - Extent report is generated .... Check the url /Selenium4POC/test-output/myReport.html
